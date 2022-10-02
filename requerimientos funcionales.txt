@@ -1,0 +1,25 @@
+esta es una nota de prueba
+
+La guía del Business Analysis Body of Knowledge (BABOK) en su version 3, proporciona la siguiente definición para los requerimientos funcionales de una solución:
+
+“Los requerimientos funcionales son las descripciones explicitas del comportamiento que debe tener una solución de software y que información debe manejar.”
+
+tomado de : http://www.pmoinformatica.com/2018/05/que-es-requerimiento-funcional.html
+
+R E Q U E R I M I E N T O S 
+
+1 se debe hacer una simulacion de login con usuario y contrtaseña
+2 la contraseña debe tener miuscula , mayuscula y algunos de estos caracteres especiales (*/+?-)
+3 se debe permitir cambiar la contraseña
+4 no se puede utilizar las ultimas de las 5 contraseñas utilizadas
+5 cuando en la digitacion de la contraseña, se haga mas de 3 intentos, el usuario se bloqueara y terminara la ejecucion del programa
+6 si el ingreso es correcto se debe mostrar un menu
+
+  las opciones del menu seran
+    
+    registrar usuario 
+    cambiar contraseña 
+    salir usando x (mayuscula o minuscula)
+
+ 7 se debe dejar la posibilidad de hacer login por redes sociales
+
