@@ -9,7 +9,6 @@ package com.mycompany.login.ejemplo;
  *
  * @author pipel
  */
-public abstract class LogIn {
+public class UpLogIn extends LogIn {
     
-
 }
