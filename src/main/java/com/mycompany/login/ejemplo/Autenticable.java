@@ -9,7 +9,12 @@ package com.mycompany.login.ejemplo;
  *
  * @author pipel
  */
-public class LogIn {
+public interface Autenticable {
     
-
+    /**
+     *
+     */
+    public void Autenticacion ();
+    
+    
 }

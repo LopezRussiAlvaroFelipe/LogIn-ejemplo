@@ -9,7 +9,11 @@ package com.mycompany.login.ejemplo;
  *
  * @author pipel
  */
-public class LogIn {
-    
+public class AutenticacionUsuarioUseryPaswword implements Autenticable{
 
+    @Override
+    public void Autenticacion() {
+        
+    }
+    
 }
