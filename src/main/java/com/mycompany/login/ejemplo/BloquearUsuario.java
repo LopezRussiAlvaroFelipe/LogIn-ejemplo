@@ -9,7 +9,6 @@ package com.mycompany.login.ejemplo;
  *
  * @author pipel
  */
-public class LogIn {
+public class BloquearUsuario implements useraction{
     
-
 }
